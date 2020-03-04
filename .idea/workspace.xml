@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b91d034a-a749-4f40-8e82-effb133cbcec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1Ye5FrLNCzSDlTYMnYrG1BTWpnm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoWorks\src\awesomeProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.hello_test.go">
+    <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build awesomeProject/learning001" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/learning001/hello.go" />
+      <package value="awesomeProject/learning001" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hello.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/learning001/hello.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/learning001/hello.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/learning001/hello.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHello in awesomeProject/learning001" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/learning001" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="awesomeProject/learning001" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestHello$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/learning001" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/learning001/hello_test.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build awesomeProject" />
+      <item itemvalue="Go Build.go build hello.go" />
+      <item itemvalue="Go Build.go build awesomeProject/learning001" />
+      <item itemvalue="Go Build.go build hello.go (3)" />
+      <item itemvalue="Go Test.hello_test.go" />
+      <item itemvalue="Go Test.TestHello in awesomeProject/learning001" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.hello_test.go" />
+        <item itemvalue="Go Build.go build hello.go (3)" />
+        <item itemvalue="Go Test.TestHello in awesomeProject/learning001" />
+        <item itemvalue="Go Build.go build awesomeProject/learning001" />
+        <item itemvalue="Go Build.go build hello.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583304078294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583304078294" />
+    <state x="705" y="361" key="#go_build_hello.go" timestamp="1583290546528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="361" key="#go_build_hello.go/0.0.1920.1040@0.0.1920.1040" timestamp="1583290546528" />
+    <state x="705" y="361" key="#go_build_hello.go_(1)" timestamp="1583290585656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="361" key="#go_build_hello.go_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1583290585656" />
+    <state x="705" y="361" key="#go_build_hello.go_(2)" timestamp="1583290605231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="361" key="#go_build_hello.go_(2)/0.0.1920.1040@0.0.1920.1040" timestamp="1583290605231" />
+    <state x="705" y="361" key="#go_build_hello.go_(3)" timestamp="1583290665152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="361" key="#go_build_hello.go_(3)/0.0.1920.1040@0.0.1920.1040" timestamp="1583290665152" />
+    <state width="1340" height="339" key="GridCell.Tab.0.bottom" timestamp="1583305432193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583305432193" />
+    <state width="1340" height="339" key="GridCell.Tab.0.center" timestamp="1583305432192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583305432192" />
+    <state width="1340" height="339" key="GridCell.Tab.0.left" timestamp="1583305432192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583305432192" />
+    <state width="1340" height="339" key="GridCell.Tab.0.right" timestamp="1583305432193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583305432193" />
+  </component>
+</project>
