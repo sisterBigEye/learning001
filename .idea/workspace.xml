@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b91d034a-a749-4f40-8e82-effb133cbcec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning001/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/learning001/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning001/hello_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/learning001/hello_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +43,7 @@
       <recent name="D:\GoWorks\src\awesomeProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.hello_test.go">
+  <component name="RunManager" selected="Go Test.TestHello/saying_hello_to_people in awesomeProject/learning001">
     <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -69,15 +72,6 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/learning001/hello.go" />
-      <package value="awesomeProject" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -98,6 +92,17 @@
       <pattern value="^TestHello$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestHello/saying_hello_to_people in awesomeProject/learning001" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/learning001" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="awesomeProject/learning001" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestHello$/^saying_hello_to_people$" />
+      <method v="2" />
+    </configuration>
     <configuration name="hello_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/learning001" />
@@ -110,19 +115,19 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.go build awesomeProject" />
-      <item itemvalue="Go Build.go build hello.go" />
       <item itemvalue="Go Build.go build awesomeProject/learning001" />
       <item itemvalue="Go Build.go build hello.go (3)" />
       <item itemvalue="Go Test.hello_test.go" />
       <item itemvalue="Go Test.TestHello in awesomeProject/learning001" />
+      <item itemvalue="Go Test.TestHello/saying_hello_to_people in awesomeProject/learning001" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.hello_test.go" />
+        <item itemvalue="Go Test.TestHello/saying_hello_to_people in awesomeProject/learning001" />
         <item itemvalue="Go Build.go build hello.go (3)" />
         <item itemvalue="Go Test.TestHello in awesomeProject/learning001" />
+        <item itemvalue="Go Test.hello_test.go" />
         <item itemvalue="Go Build.go build awesomeProject/learning001" />
-        <item itemvalue="Go Build.go build hello.go" />
       </list>
     </recent_temporary>
   </component>
@@ -150,21 +155,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="361" key="#go_build_hello.go_(3)/0.0.1920.1040@0.0.1920.1040" timestamp="1583290665152" />
-    <state width="1340" height="339" key="GridCell.Tab.0.bottom" timestamp="1583305432193">
+    <state width="1340" height="339" key="GridCell.Tab.0.bottom" timestamp="1583318148717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583305432193" />
-    <state width="1340" height="339" key="GridCell.Tab.0.center" timestamp="1583305432192">
+    <state width="1340" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583318148717" />
+    <state width="1340" height="339" key="GridCell.Tab.0.center" timestamp="1583318148717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583305432192" />
-    <state width="1340" height="339" key="GridCell.Tab.0.left" timestamp="1583305432192">
+    <state width="1340" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583318148717" />
+    <state width="1340" height="339" key="GridCell.Tab.0.left" timestamp="1583318148717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583305432192" />
-    <state width="1340" height="339" key="GridCell.Tab.0.right" timestamp="1583305432193">
+    <state width="1340" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583318148717" />
+    <state width="1340" height="339" key="GridCell.Tab.0.right" timestamp="1583318148717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583305432193" />
+    <state width="1340" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583318148717" />
   </component>
 </project>
