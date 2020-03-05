@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b91d034a-a749-4f40-8e82-effb133cbcec" name="Default Changelist" comment="" />
+    <list default="true" id="b91d034a-a749-4f40-8e82-effb133cbcec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning001/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/learning001/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning001/hello_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/learning001/hello_test.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,32 +95,31 @@
       <pattern value="^TestHello$/^say_hello_world_when_an_empty_string_is_supplied$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestHello/saying_hello_to_people in awesomeProject/learning001 (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="hello_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/learning001" />
       <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="awesomeProject/learning001" />
+      <kind value="FILE" />
+      <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestHello$/^saying_hello_to_people$" />
+      <filePath value="$PROJECT_DIR$/learning001/hello_test.go" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Go Build.go build awesomeProject" />
       <item itemvalue="Go Build.go build hello.go (3)" />
       <item itemvalue="Go Test.TestHello in awesomeProject/learning001 (1)" />
-      <item itemvalue="Go Test.TestHello/saying_hello_to_people in awesomeProject/learning001 (1)" />
       <item itemvalue="Go Test.TestHello/in_Spanish in awesomeProject/learning001" />
       <item itemvalue="Go Test.TestHello/say_hello_world_when_an_empty_string_is_supplied in awesomeProject/learning001" />
+      <item itemvalue="Go Test.hello_test.go" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Go Test.TestHello/in_Spanish in awesomeProject/learning001" />
-        <item itemvalue="Go Test.TestHello/say_hello_world_when_an_empty_string_is_supplied in awesomeProject/learning001" />
+        <item itemvalue="Go Test.hello_test.go" />
         <item itemvalue="Go Build.go build hello.go (3)" />
-        <item itemvalue="Go Test.TestHello/saying_hello_to_people in awesomeProject/learning001 (1)" />
         <item itemvalue="Go Test.TestHello in awesomeProject/learning001 (1)" />
+        <item itemvalue="Go Test.TestHello/say_hello_world_when_an_empty_string_is_supplied in awesomeProject/learning001" />
       </list>
     </recent_temporary>
   </component>
@@ -144,22 +147,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="361" key="#go_build_hello.go_(3)/0.0.1920.1040@0.0.1920.1040" timestamp="1583290665152" />
-    <state width="1340" height="457" key="GridCell.Tab.0.bottom" timestamp="1583394517353">
+    <state width="1340" height="457" key="GridCell.Tab.0.bottom" timestamp="1583397546186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583394517353" />
-    <state width="1340" height="457" key="GridCell.Tab.0.center" timestamp="1583394517353">
+    <state width="1340" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583397546186" />
+    <state width="1340" height="457" key="GridCell.Tab.0.center" timestamp="1583397546186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583394517353" />
-    <state width="1340" height="457" key="GridCell.Tab.0.left" timestamp="1583394517353">
+    <state width="1340" height="457" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583397546186" />
+    <state width="1340" height="457" key="GridCell.Tab.0.left" timestamp="1583397546186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583394517353" />
-    <state width="1340" height="457" key="GridCell.Tab.0.right" timestamp="1583394517353">
+    <state width="1340" height="457" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583397546186" />
+    <state width="1340" height="457" key="GridCell.Tab.0.right" timestamp="1583397546186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583394517353" />
+    <state width="1340" height="457" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583397546186" />
     <state x="723" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1583395046394">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
