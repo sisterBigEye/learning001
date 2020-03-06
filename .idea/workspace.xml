@@ -45,7 +45,7 @@
       <recent name="D:\GoWorks\src\awesomeProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestWallet in awesomeProject/walletgo">
+  <component name="RunManager" selected="Go Test.TestWallet/Withdraw_with_funds in awesomeProject/walletgo">
     <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -54,39 +54,6 @@
       <filePath value="$PROJECT_DIR$/" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestArea in awesomeProject/learningstruct" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/learningstruct" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="awesomeProject/learningstruct" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestArea$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestArea/circles in awesomeProject/learningstruct" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/learningstruct" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="awesomeProject/learningstruct" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestArea$/^circles$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestArea/rectangles in awesomeProject/learningstruct" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/learningstruct" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="awesomeProject/learningstruct" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestArea$/^rectangles$" />
       <method v="2" />
     </configuration>
     <configuration name="TestWallet in awesomeProject/walletgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -98,6 +65,39 @@
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <pattern value="^TestWallet$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWallet/Withdraw in awesomeProject/walletgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/walletgo" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="awesomeProject/walletgo" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestWallet$/^Withdraw$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWallet/Withdraw_insufficient_funds in awesomeProject/walletgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/walletgo" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="awesomeProject/walletgo" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestWallet$/^Withdraw_insufficient_funds$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWallet/Withdraw_with_funds in awesomeProject/walletgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/walletgo" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="awesomeProject/walletgo" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestWallet$/^Withdraw_with_funds$" />
       <method v="2" />
     </configuration>
     <configuration name="wallet_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -112,19 +112,19 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.go build awesomeProject" />
-      <item itemvalue="Go Test.TestArea in awesomeProject/learningstruct" />
-      <item itemvalue="Go Test.TestArea/rectangles in awesomeProject/learningstruct" />
-      <item itemvalue="Go Test.TestArea/circles in awesomeProject/learningstruct" />
       <item itemvalue="Go Test.TestWallet in awesomeProject/walletgo" />
       <item itemvalue="Go Test.wallet_test.go" />
+      <item itemvalue="Go Test.TestWallet/Withdraw in awesomeProject/walletgo" />
+      <item itemvalue="Go Test.TestWallet/Withdraw_insufficient_funds in awesomeProject/walletgo" />
+      <item itemvalue="Go Test.TestWallet/Withdraw_with_funds in awesomeProject/walletgo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestWallet/Withdraw_with_funds in awesomeProject/walletgo" />
+        <item itemvalue="Go Test.TestWallet/Withdraw_insufficient_funds in awesomeProject/walletgo" />
         <item itemvalue="Go Test.TestWallet in awesomeProject/walletgo" />
+        <item itemvalue="Go Test.TestWallet/Withdraw in awesomeProject/walletgo" />
         <item itemvalue="Go Test.wallet_test.go" />
-        <item itemvalue="Go Test.TestArea in awesomeProject/learningstruct" />
-        <item itemvalue="Go Test.TestArea/rectangles in awesomeProject/learningstruct" />
-        <item itemvalue="Go Test.TestArea/circles in awesomeProject/learningstruct" />
       </list>
     </recent_temporary>
   </component>
@@ -152,22 +152,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="361" key="#go_build_hello.go_(3)/0.0.1920.1040@0.0.1920.1040" timestamp="1583290665152" />
-    <state width="1340" height="457" key="GridCell.Tab.0.bottom" timestamp="1583481818459">
+    <state width="1340" height="457" key="GridCell.Tab.0.bottom" timestamp="1583490749853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583481818459" />
-    <state width="1340" height="457" key="GridCell.Tab.0.center" timestamp="1583481818459">
+    <state width="1340" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583490749853" />
+    <state width="1340" height="457" key="GridCell.Tab.0.center" timestamp="1583490749853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583481818459" />
-    <state width="1340" height="457" key="GridCell.Tab.0.left" timestamp="1583481818459">
+    <state width="1340" height="457" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583490749853" />
+    <state width="1340" height="457" key="GridCell.Tab.0.left" timestamp="1583490749853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583481818459" />
-    <state width="1340" height="457" key="GridCell.Tab.0.right" timestamp="1583481818459">
+    <state width="1340" height="457" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583490749853" />
+    <state width="1340" height="457" key="GridCell.Tab.0.right" timestamp="1583490749853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583481818459" />
+    <state width="1340" height="457" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583490749853" />
     <state x="723" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1583395046394">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

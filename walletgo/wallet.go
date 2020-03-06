@@ -1,6 +1,9 @@
 package walletgo
 
-import "fmt"
+import (
+	"errors"
+	"fmt"
+)
 
 type Bitcoin int
 
@@ -8,7 +11,7 @@ type Wallet struct {
   balance Bitcoin
 }
 
-type String interface {
+type Stringer interface {
 	String() string
 }
 
@@ -22,4 +25,14 @@ func (w *Wallet) Deposit(amount Bitcoin) {
 
 func (b Bitcoin) String() string{
 	return fmt.Sprintf("%d BTC",b)
+}
+
+
+var InsufficientFundsError = errors.New("cannot withdraw,insuffcient funds")
+func (w *Wallet) Withdraw(amount Bitcoin) error{
+	if amount > w.balance{
+		return InsufficientFundsError
+	}
+	w.balance -= amount
+	return nil
 }
