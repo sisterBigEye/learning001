@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b91d034a-a749-4f40-8e82-effb133cbcec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningstruct/shape_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/learningstruct/shape_test.go" afterDir="false" />
-    </list>
+    <list default="true" id="b91d034a-a749-4f40-8e82-effb133cbcec" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,11 +108,11 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.go build awesomeProject" />
-      <item itemvalue="Go Test.shape_test.go" />
-      <item itemvalue="Go Test.TestPerimeter in awesomeProject/learningstruct" />
       <item itemvalue="Go Test.TestArea in awesomeProject/learningstruct" />
-      <item itemvalue="Go Test.TestArea/rectangles in awesomeProject/learningstruct" />
       <item itemvalue="Go Test.TestArea/circles in awesomeProject/learningstruct" />
+      <item itemvalue="Go Test.TestArea/rectangles in awesomeProject/learningstruct" />
+      <item itemvalue="Go Test.TestPerimeter in awesomeProject/learningstruct" />
+      <item itemvalue="Go Test.shape_test.go" />
     </list>
     <recent_temporary>
       <list>
