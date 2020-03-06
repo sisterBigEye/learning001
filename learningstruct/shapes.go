@@ -42,8 +42,8 @@ type Triangle struct {
 	Height float64
 }
 
-func (c Triangle) Area() float64{
-	return 1/2*c.Base*c.Height
+func (t Triangle) Area() float64{
+	return  t.Base * t.Height*0.5
 }
 
 type Shape interface {
