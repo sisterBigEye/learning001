@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b91d034a-a749-4f40-8e82-effb133cbcec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/walletgo/wallet.go" beforeDir="false" afterPath="$PROJECT_DIR$/walletgo/wallet.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/walletgo/wallet_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/walletgo/wallet_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +36,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\GoWorks\src\awesomeProject" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\GoWorks\src\awesomeProject" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoWorks\src\awesomeProject\learningmap" />
+      <recent name="D:\GoWorks\src\awesomeProject" />
+    </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestWallet/Withdraw_with_funds in awesomeProject/walletgo">
+  <component name="RunManager" selected="Go Test.dictionary_test.go">
     <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -56,75 +55,75 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="TestWallet in awesomeProject/walletgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestAdd in awesomeProject/learningmap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/walletgo" />
+      <working_directory value="$PROJECT_DIR$/learningmap" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="awesomeProject/walletgo" />
+      <package value="awesomeProject/learningmap" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestWallet$" />
+      <pattern value="^TestAdd$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestWallet/Withdraw in awesomeProject/walletgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestAdd/existing_word in awesomeProject/learningmap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/walletgo" />
+      <working_directory value="$PROJECT_DIR$/learningmap" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="awesomeProject/walletgo" />
+      <package value="awesomeProject/learningmap" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestWallet$/^Withdraw$" />
+      <pattern value="^TestAdd$/^existing_word$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestWallet/Withdraw_insufficient_funds in awesomeProject/walletgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestAdd/new_word in awesomeProject/learningmap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/walletgo" />
+      <working_directory value="$PROJECT_DIR$/learningmap" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="awesomeProject/walletgo" />
+      <package value="awesomeProject/learningmap" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestWallet$/^Withdraw_insufficient_funds$" />
+      <pattern value="^TestAdd$/^new_word$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestWallet/Withdraw_with_funds in awesomeProject/walletgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSearch/unknown_word in awesomeProject/learningmap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/walletgo" />
+      <working_directory value="$PROJECT_DIR$/learningmap" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="awesomeProject/walletgo" />
+      <package value="awesomeProject/learningmap" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestWallet$/^Withdraw_with_funds$" />
+      <pattern value="^TestSearch$/^unknown_word$" />
       <method v="2" />
     </configuration>
-    <configuration name="wallet_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="dictionary_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/walletgo" />
+      <working_directory value="$PROJECT_DIR$/learningmap" />
       <framework value="gotest" />
       <kind value="FILE" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/walletgo/wallet_test.go" />
+      <filePath value="$PROJECT_DIR$/learningmap/dictionary_test.go" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Go Build.go build awesomeProject" />
-      <item itemvalue="Go Test.TestWallet in awesomeProject/walletgo" />
-      <item itemvalue="Go Test.wallet_test.go" />
-      <item itemvalue="Go Test.TestWallet/Withdraw in awesomeProject/walletgo" />
-      <item itemvalue="Go Test.TestWallet/Withdraw_insufficient_funds in awesomeProject/walletgo" />
-      <item itemvalue="Go Test.TestWallet/Withdraw_with_funds in awesomeProject/walletgo" />
+      <item itemvalue="Go Test.dictionary_test.go" />
+      <item itemvalue="Go Test.TestSearch/unknown_word in awesomeProject/learningmap" />
+      <item itemvalue="Go Test.TestAdd/new_word in awesomeProject/learningmap" />
+      <item itemvalue="Go Test.TestAdd/existing_word in awesomeProject/learningmap" />
+      <item itemvalue="Go Test.TestAdd in awesomeProject/learningmap" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestWallet/Withdraw_with_funds in awesomeProject/walletgo" />
-        <item itemvalue="Go Test.TestWallet/Withdraw_insufficient_funds in awesomeProject/walletgo" />
-        <item itemvalue="Go Test.TestWallet in awesomeProject/walletgo" />
-        <item itemvalue="Go Test.TestWallet/Withdraw in awesomeProject/walletgo" />
-        <item itemvalue="Go Test.wallet_test.go" />
+        <item itemvalue="Go Test.dictionary_test.go" />
+        <item itemvalue="Go Test.TestAdd in awesomeProject/learningmap" />
+        <item itemvalue="Go Test.TestAdd/existing_word in awesomeProject/learningmap" />
+        <item itemvalue="Go Test.TestAdd/new_word in awesomeProject/learningmap" />
+        <item itemvalue="Go Test.TestSearch/unknown_word in awesomeProject/learningmap" />
       </list>
     </recent_temporary>
   </component>
@@ -152,22 +151,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="361" key="#go_build_hello.go_(3)/0.0.1920.1040@0.0.1920.1040" timestamp="1583290665152" />
-    <state width="1340" height="457" key="GridCell.Tab.0.bottom" timestamp="1583490749853">
+    <state width="1340" height="457" key="GridCell.Tab.0.bottom" timestamp="1583738745623">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583490749853" />
-    <state width="1340" height="457" key="GridCell.Tab.0.center" timestamp="1583490749853">
+    <state width="1340" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583738745623" />
+    <state width="1340" height="457" key="GridCell.Tab.0.center" timestamp="1583738745623">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583490749853" />
-    <state width="1340" height="457" key="GridCell.Tab.0.left" timestamp="1583490749853">
+    <state width="1340" height="457" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583738745623" />
+    <state width="1340" height="457" key="GridCell.Tab.0.left" timestamp="1583738745623">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583490749853" />
-    <state width="1340" height="457" key="GridCell.Tab.0.right" timestamp="1583490749853">
+    <state width="1340" height="457" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583738745623" />
+    <state width="1340" height="457" key="GridCell.Tab.0.right" timestamp="1583738745623">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="457" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583490749853" />
+    <state width="1340" height="457" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583738745623" />
     <state x="723" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1583395046394">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
