@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b91d034a-a749-4f40-8e82-effb133cbcec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrentgo/CheckWebsites.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrentgo/CheckWebsites.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
       <recent name="D:\GoWorks\src\awesomeProject\learningmap" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestCountdown/prints_3_to_Go\! in awesomeProject/mockinggo">
+  <component name="RunManager" selected="Go Test.TestCheckWebsites in awesomeProject/concurrentgo">
     <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -82,6 +83,17 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="TestCheckWebsites in awesomeProject/concurrentgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/concurrentgo" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="awesomeProject/concurrentgo" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCheckWebsites$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestCountdown/prints_3_to_Go\! in awesomeProject/mockinggo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/mockinggo" />
@@ -93,31 +105,21 @@
       <pattern value="^TestCountdown$/^prints_3_to_Go\!$" />
       <method v="2" />
     </configuration>
-    <configuration name="di_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/injectiondep" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <package value="awesomeProject" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/injectiondep/di_test.go" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Go Build.go build awesomeProject" />
-      <item itemvalue="Go Test.di_test.go" />
       <item itemvalue="Go Build.go build di.go" />
       <item itemvalue="Go Build.go build webpage.go" />
       <item itemvalue="Go Build.go build main.go" />
       <item itemvalue="Go Test.TestCountdown/prints_3_to_Go\! in awesomeProject/mockinggo" />
+      <item itemvalue="Go Test.TestCheckWebsites in awesomeProject/concurrentgo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestCheckWebsites in awesomeProject/concurrentgo" />
         <item itemvalue="Go Test.TestCountdown/prints_3_to_Go\! in awesomeProject/mockinggo" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build webpage.go" />
         <item itemvalue="Go Build.go build di.go" />
-        <item itemvalue="Go Test.di_test.go" />
       </list>
     </recent_temporary>
   </component>
