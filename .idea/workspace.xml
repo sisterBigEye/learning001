@@ -57,15 +57,6 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build di.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/injectiondep/di.go" />
-      <package value="awesomeProject" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -75,13 +66,25 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build webpage.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BenchmarkCheckWebsites in awesomeProject/concurrentgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/" />
+      <working_directory value="$PROJECT_DIR$/concurrentgo" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="awesomeProject/concurrentgo" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkCheckWebsites$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CheckWebsites_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/concurrentgo" />
+      <framework value="gotest" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/webpage.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/concurrentgo/CheckWebsites_test.go" />
       <method v="2" />
     </configuration>
     <configuration name="TestCheckWebsites in awesomeProject/concurrentgo" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -108,19 +111,19 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.go build awesomeProject" />
-      <item itemvalue="Go Build.go build di.go" />
-      <item itemvalue="Go Build.go build webpage.go" />
       <item itemvalue="Go Build.go build main.go" />
       <item itemvalue="Go Test.TestCountdown/prints_3_to_Go\! in awesomeProject/mockinggo" />
       <item itemvalue="Go Test.TestCheckWebsites in awesomeProject/concurrentgo" />
+      <item itemvalue="Go Test.BenchmarkCheckWebsites in awesomeProject/concurrentgo" />
+      <item itemvalue="Go Test.CheckWebsites_test.go" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Go Test.TestCheckWebsites in awesomeProject/concurrentgo" />
+        <item itemvalue="Go Test.CheckWebsites_test.go" />
+        <item itemvalue="Go Test.BenchmarkCheckWebsites in awesomeProject/concurrentgo" />
         <item itemvalue="Go Test.TestCountdown/prints_3_to_Go\! in awesomeProject/mockinggo" />
         <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build webpage.go" />
-        <item itemvalue="Go Build.go build di.go" />
       </list>
     </recent_temporary>
   </component>
@@ -152,22 +155,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="361" key="#go_build_hello.go_(3)/0.0.1920.1040@0.0.1920.1040" timestamp="1583290665152" />
-    <state width="1340" height="233" key="GridCell.Tab.0.bottom" timestamp="1584095017992">
+    <state width="1340" height="353" key="GridCell.Tab.0.bottom" timestamp="1584097156966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584095017992" />
-    <state width="1340" height="233" key="GridCell.Tab.0.center" timestamp="1584095017992">
+    <state width="1340" height="353" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584097156966" />
+    <state width="1340" height="353" key="GridCell.Tab.0.center" timestamp="1584097156966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="233" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584095017992" />
-    <state width="1340" height="233" key="GridCell.Tab.0.left" timestamp="1584095017991">
+    <state width="1340" height="353" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584097156966" />
+    <state width="1340" height="353" key="GridCell.Tab.0.left" timestamp="1584097156966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="233" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584095017991" />
-    <state width="1340" height="233" key="GridCell.Tab.0.right" timestamp="1584095017992">
+    <state width="1340" height="353" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584097156966" />
+    <state width="1340" height="353" key="GridCell.Tab.0.right" timestamp="1584097156966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="233" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584095017992" />
+    <state width="1340" height="353" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584097156966" />
     <state x="723" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1583395046394">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
